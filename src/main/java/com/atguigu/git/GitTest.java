@@ -17,6 +17,7 @@ public class GitTest {
         System.out.println("hello,merge 冲突 git");
 
         System.out.println("push test");
+        System.out.println("pull test");
 
     }
 }
