@@ -12,5 +12,7 @@ public class GitTest {
         System.out.println("hello,git world");
         System.out.println("hello,git world!");
         System.out.println("hello,merge git");
+        System.out.println("hello,merge 冲突 git");
+
     }
 }
